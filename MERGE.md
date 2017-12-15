@@ -1,0 +1,1 @@
+[Mergetty pull request](https://github.com/OtterleyW/ohtu2017-miniprojekti/pull/2)
